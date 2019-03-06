@@ -1,6 +1,6 @@
 # daily
 
-> A Vue.js project
+> 知乎者日报
 
 ## Build Setup
 
