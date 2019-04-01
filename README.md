@@ -1,9 +1,8 @@
 # daily
 
 > 知乎者日报
-主页![image](https://github.com/GodLovesYou/daily/blob/master/zhihu.png)
 ## Build Setup
-
+主页![image](https://github.com/GodLovesYou/daily/blob/master/zhihu.png)
 ``` bash
 # install dependencies
 npm install
